@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+jkfdakldak
+=======
 
 <<<<<<< HEAD
 =======
@@ -7,3 +10,4 @@ this is test
 hgf 
 nbnnbc
 >>>>>>> 8b5d7c07b42840d0c30521f022f107b58c48214e
+>>>>>>> master
